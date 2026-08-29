@@ -13,7 +13,8 @@
         "</a><nav>" +
           link("home", "index.html", "首页") +
           link("about", "about.html", "关于我们") +
-          link("biz", "business.html", "业务范围") +
+          link("biz", "business.html", "业务与方案") +
+          link("cases", "cases.html", "落地案例") +
           link("news", "news.html", "新闻公告") +
           link("contact", "contact.html", "联系我们") +
         "</nav></div>";
